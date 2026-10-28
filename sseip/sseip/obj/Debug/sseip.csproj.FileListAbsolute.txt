@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\sseip\sseip\bin\Debug\sseip.exe.config
+C:\Users\student\source\repos\sseip\sseip\bin\Debug\sseip.exe
+C:\Users\student\source\repos\sseip\sseip\bin\Debug\sseip.pdb
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.Form1.resources
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.Properties.Resources.resources
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.csproj.GenerateResource.cache
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.exe
+C:\Users\student\source\repos\sseip\sseip\obj\Debug\sseip.pdb
