@@ -34,9 +34,14 @@
 <img width="421" height="43" alt="image" src="https://github.com/user-attachments/assets/a207ddf4-fa0c-4157-ad1c-b0368d6ad10e" />
 
 
-3. Если вы не успеете завершить викторину то высветится окно в которым пишется что вы не успели дописать
+4. Если вы не успеете завершить викторину то высветится окно в которым пишется что вы не успели дописать
 
 
 <img width="174" height="134" alt="image" src="https://github.com/user-attachments/assets/5e08fbdf-7f53-465a-ad03-916093e9302c" />
 
 
+
+5. В случае если вы успели ответить на все вопросы то высветится окно с поздравлением
+
+
+<img width="190" height="128" alt="image" src="https://github.com/user-attachments/assets/7df81cf4-c1ff-44b2-b4cf-f388d455037e" />
